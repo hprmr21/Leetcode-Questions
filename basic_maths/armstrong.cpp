@@ -14,7 +14,7 @@ int main(){
         n=n/10;
 
     }
-    if(sum==original)cout<<"Armstrong";
+    if(sum==original)cout<<"Number is an Armstrong";
     else cout<<"Not an Armstrong";
     
 
